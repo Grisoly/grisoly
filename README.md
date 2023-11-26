@@ -1,5 +1,5 @@
-<h1 align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-JavaScript Developer & Airtable Consultant   <a href="https://airtable.com/invite/r/Aoj4KzQP" target="blank" ><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="50" height="50" href="https://airtable.com/invite/r/Aoj4KzQP"/></a> 
+<h1 align="center">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+React Developer & Airtable Consultant   <a href="https://airtable.com/invite/r/Aoj4KzQP" target="blank" ><img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="50" height="50" href="https://airtable.com/invite/r/Aoj4KzQP"/></a> 
 </h1>
 
 <p align="center"> 
