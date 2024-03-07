@@ -16,22 +16,12 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Self-taught front-end developer passionate about creating seamless user experiences. Meta Front-end Developer certified with expertise in JavaScript, React, and React Native. Enthusiastic learner continuously exploring the intersections of code and creativity. Remote collaborator with a senior developer, focused on timely delivery and enhancing user experience ease. Join me on this coding journey!
+  Self-taught front-end developer passionate about creating seamless user experiences. Meta Front-end Developer certified with expertise in JavaScript, React, and React Native. Enthusiastic learner continuously exploring the intersections of code and creativity. Remote collaborator with a senior developer, focused on timely delivery and enhancing user experience. Join me on this coding journey!
 </p>
 
 <h3 align="center">Skills & Tools</h3>
 <p align="center"> 
-  <a href="https://airtable.com/invite/r/Aoj4KzQP" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="50" height="50" />
-  </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codux/codux-original.svg" alt="codux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+ JavaScript | Next.js | React | React Native | CSS3 | HTML5 | Python | Codux | Figma | Airtable
 </p>
 </p>
 
