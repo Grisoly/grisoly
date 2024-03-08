@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <div align="center" style="background-color: white; padding: 10px; border-radius: 10px; margin: 10px;">
-    <a href="https://twitter.com/ksouleimane" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksouleimane" height="50" width="50" />
     </a>
   </div>
