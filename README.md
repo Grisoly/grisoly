@@ -19,7 +19,7 @@
 
 <h3 align="center">Skills & Tools</h3>
 <p align="center"> 
- JavaScript | Next.js | React | React Native | CSS3 | HTML5 | Python | Codux | Figma | Airtable
+ JavaScript | Next.js | React | React Native | CSS3 | HTML5 | Python | Codux | Figma | Airtable | PHP |
 </p>
 </p>
 
