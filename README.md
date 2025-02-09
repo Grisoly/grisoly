@@ -1,6 +1,6 @@
 <h1 align="center">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>
-  React / React-Native Dev & Airtable Consultant   
+  React Dev & Airtable Consultant   
   <a href="https://airtable.com/invite/r/Aoj4KzQP" target="blank" >
     <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="airtable" width="50" height="50" />
   </a> 
