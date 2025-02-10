@@ -14,7 +14,7 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Self-taught front-end developer with a deep passion for creating seamless user experiences. <br>Meta Front-end Developer certified with expertise in React. <br> I'm a versatile professional with experience in PHP, WordPress development, UI/UX design and Adobe Suite. <br> Recently diving into Astro.js for fast modern web development and exploring solutions architecture for innovative teams. <br> Enthusiastic learner continuously exploring the intersections of code, design, and collaboration. <br> Remote collaborator with a senior developer, focused on timely delivery and enhancing user experience. Join me on this coding journey!
+  Self-taught front-end developer with a deep passion for creating seamless user experiences. <br>Meta Front-end Developer certified with expertise in React. <br> I'm a versatile professional with experience in PHP, WordPress development, UI/UX design and Adobe Suite. <br> Recently diving into Astro.js for fast modern web development and exploring solutions architecture for innovative teams. <br> Enthusiastic learner continuously exploring the intersections of code, design, and collaboration. <br> Remote collaborator with a senior developer, focused on timely delivery and enhancing user experience. <br> Recently diving into Astro.js for fast modern web development and exploring solutions architecture for innovative teams. </br>. Join me on this coding journey!
 </p>
 
 <h3 align="center">Skills & Tools</h3>
